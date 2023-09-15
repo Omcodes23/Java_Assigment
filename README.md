@@ -1,5 +1,5 @@
 # Java_Assigment
- This repo contains the College Java Assigment.
+## This repo contains the College Java Assigment.
 
 ## Java Collage Assignment topic on GitHub: This topic page on GitHub provides an overview of Java collage assignments. It includes repositories and projects related to Java collage assignments that you can explore for documentation and code examples.
 
